@@ -165,21 +165,22 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\img\mrbeansofunny.png" />
-    <Content Include="assets\img\california-clipart-3-transparent %282%29.png" />
-    <Content Include="assets\img\clipart1838501 %281%29.png" />
-    <Content Include="assets\img\gif_temp_16130661046762.gif" />
-    <Content Include="assets\img\CricutDesign_FI.jpg" />
-    <Content Include="assets\img\white-black-and-yellow-lion-logo-united-states-navy-us-navy-department-military-sailor-military-png-clip-art-thumbnail.png" />
+    <Content Include="public\4a.gif" />
+    <Content Include="public\california-clipart-3-transparent %282%29.png" />
+    <Content Include="public\clipart1838501 %281%29.png" />
+    <Content Include="public\CricutDesign_FI.jpg" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="index.html" />
+    <Content Include="public\navyseal.png" />
+    <Content Include="public\navysealbw.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="CNAME" />
+    <Content Include="package.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -212,6 +213,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="assets\img\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

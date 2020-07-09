@@ -88,8 +88,8 @@ C:\Projects\ForAyInspection\ForAyInspection\bin\System.Web.WebPages.xml
 C:\Projects\ForAyInspection\ForAyInspection\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\ForAyInspection\ForAyInspection\bin\System.Web.WebPages.Razor.xml
 C:\Projects\ForAyInspection\ForAyInspection\bin\Newtonsoft.Json.xml
-C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.csprojResolveAssemblyReference.cache
 C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.csproj.CoreCompileInputs.cache
 C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.csproj.CopyComplete
 C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.dll
 C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.pdb
+C:\Projects\ForAyInspection\ForAyInspection\obj\Debug\ForAyInspection.csprojResolveAssemblyReference.cache

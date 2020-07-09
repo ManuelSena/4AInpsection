@@ -13,6 +13,16 @@
  */
 
 
+.register {
+    list-style-type: none
+}
+
+html, body, #root, #root > div {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 #root {
     margin: 0;
     background-color: black;
@@ -100,6 +110,12 @@ p {
     margin-bottom: 1rem;
 }
 
+
+a { 
+    font-size: 15px;
+    padding-right:45px;
+}
+
 abbr[title],
 abbr[data-original-title] {
     text-decoration: underline;
@@ -119,11 +135,11 @@ address {
 }
 
 .welding {
+    background-image: url('../../public/clipart1838501 (1).png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left;
     background-size: 25%;
-    background-image: url('../../assets/img/clipart1838501 (1).png');
 }
 
     .welding h4 {
@@ -137,16 +153,16 @@ address {
 
 
 .vetpwnd {
+    background-image: url('../../public/navysealbw.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left;
     background-size: 20%;
-    background-image: url('../../assets/img/white-black-and-yellow-lion-logo-united-states-navy-us-navy-department-military-sailor-military-png-clip-art-thumbnail.png');
 }
 
     .vetpwnd h4 {
         padding-top: 30px;
-        padding-left: 50px;
+        padding-left: 65px;
     }
 
     .vetpwnd p {
@@ -154,12 +170,12 @@ address {
     }
 
 .cali {
+    background-image: url('../../public/california-clipart-3-transparent (2).png');
     margin: 30px 0px 15px 0px;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left;
     background-size: 15%;
-    background-image: url('../../assets/img/california-clipart-3-transparent (2).png');
 }
 
     .cali h4 {
@@ -449,8 +465,12 @@ h2, .h2 {
 h3, .h3 {
     font-size: 1.75rem;
 }
+h3.text-muted {
+    padding-left: 80px;
 
+}
 h4, .h4 {
+    padding-right: 50px;
     font-size: 1.5rem;
 }
 
@@ -618,11 +638,9 @@ pre {
 }
 
 .container {
-    width: 100%;
+    width: 90%;
     padding-right: 0.75rem;
-    padding-left: 0.75rem;
-    margin-right: 10px;
-    margin-left: 10px;
+    padding-left: 1.75rem;
 }
 
 @media (min-width: 576px) {
@@ -7486,7 +7504,7 @@ button.bg-dark:focus {
 
 .mb-3,
 .my-3 {
-    margin-left: 50px;
+    margin-left: 80px;
     margin-bottom: 1rem !important;
 }
 
@@ -9785,6 +9803,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-muted {
+     padding-left: 40px;
     color: #6c757d !important;
 }
 
@@ -9938,6 +9957,7 @@ p {
         font-size: 2.5rem;
         margin-top: 0;
         margin-bottom: 1rem;
+       
     }
 
     .page-section h3.section-subheading {
@@ -10075,12 +10095,12 @@ img::-moz-selection {
             }
 }
 
-header.masthead {
+.masthead {
+    background-image: url('../../public/4a.gif');
     padding-top: 13rem;
     padding-bottom: 6rem;
     text-align: center;
     color: #fff;
-    background-image: url('../../assets/img/gif_temp_16130661046762.gif');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;

@@ -11,10 +11,13 @@ export const Header = () => {
                 React.createElement("div", { className: "collapse navbar-collapse", id: "navbarResponsive" },
                     React.createElement("ul", { className: "navbar-nav text-uppercase ml-auto" },
                         React.createElement("li", { className: "nav-item" },
-                            React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#services" }, "Services")),
+                            React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#!" }, "Services")),
                         React.createElement("li", { className: "nav-item" },
-                            React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#team" }, "Team")),
-                        React.createElement("li", { className: "nav-item" },
-                            React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#contact" }, "Contact"))))))));
+                            React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#contact" }, "Contact")),
+                        React.createElement("br", null),
+                        React.createElement("ul", null,
+                            " ",
+                            React.createElement("li", { className: "register nav-item" },
+                                React.createElement("a", { className: "nav-link js-scroll-trigger", href: "#!" }, "Login / Register")))))))));
 };
 //# sourceMappingURL=header.js.map
