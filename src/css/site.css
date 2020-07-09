@@ -135,6 +135,7 @@ address {
 }
 
 .welding {
+    margin: 0 0 15px 0;
     background-image: url('../../public/clipart1838501 (1).png');
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -9951,7 +9952,7 @@ p {
 }
 
 .page-section {
-    padding: 6rem 0;
+    padding: 5rem 0;
 }
 
     .page-section h2.section-heading {
