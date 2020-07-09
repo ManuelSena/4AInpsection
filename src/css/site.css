@@ -139,7 +139,7 @@ address {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left;
-    background-size: 25%;
+    background-size: 16%;
 }
 
     .welding h4 {
@@ -157,7 +157,7 @@ address {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: left;
-    background-size: 20%;
+    background-size: 17%;
 }
 
     .vetpwnd h4 {
@@ -171,10 +171,10 @@ address {
 
 .cali {
     background-image: url('../../public/california-clipart-3-transparent (2).png');
-    margin: 30px 0px 15px 0px;
+    margin: 0px 0px 15px 0px;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: left top;
+    background-position: left;
     background-size: 13%;
 }
 
@@ -1208,6 +1208,7 @@ pre {
     }
 
     .col-md-4 {
+        padding
         flex: 0 0 33.3333333333%;
         max-width: 33.3333333333%;
     }
@@ -7504,7 +7505,7 @@ button.bg-dark:focus {
 
 .mb-3,
 .my-3 {
-    margin-left: 80px;
+    margin-left: 70px;
     margin-bottom: 1rem !important;
 }
 
@@ -9954,9 +9955,9 @@ p {
 }
 
     .page-section h2.section-heading {
-        font-size: 2.5rem;
+        font-size: 3rem;
         margin-top: 0;
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
        
     }
 
