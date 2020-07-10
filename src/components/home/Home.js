@@ -19,7 +19,7 @@ export const Home = () => {
                         React.createElement("h3", { className: "text-muted" }, "Greater Los Angeles Area")),
                     React.createElement("div", { className: "col-md-4 vetpwnd" },
                         React.createElement("h2", { className: "my-3" }, "Vet Owned"),
-                        React.createElement("h3", { className: "text-muted" }, "The owner has contributed to the United States Navy"))))),
+                        React.createElement("h3", { className: "text-muted" }, "The owner has served in the United States Navy"))))),
         React.createElement("section", { className: "page-section", id: "contact" },
             React.createElement("div", { className: "container" },
                 React.createElement("div", { className: "text-center" },
