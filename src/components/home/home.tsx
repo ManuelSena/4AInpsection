@@ -28,7 +28,7 @@ export const Home: React.StatelessComponent<{}> = () => {
                         </div>
                         <div className="col-md-4 vetpwnd">
                             <h2 className="my-3">Vet Owned</h2>
-                            <h3 className="text-muted">The owner has served in the United States Navy</h3>
+                            <h3 className="text-muted">The Owner Has Served In The United States Navy</h3>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ export const Home: React.StatelessComponent<{}> = () => {
                 <div className="container">
                     <div className="text-center">
                         <h2 className="section-heading text-uppercase">Contact Us</h2>
-                        <h4 className="section-subheading text-muted">Feel free to give us a call or email.</h4 >
+                        <h4 className="section-subheading text-muted">Feel Free To Give Us A Call Or Email.</h4 >
                         <h2 style={{ color: "white" }}>Anthony Ramirez</h2>
                         <ul>
                         <a href="tel:5624566001">Phone: (562) 456-6001</a>

@@ -165,6 +165,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".well-known\pki-validation\FF1744D2B533A34FFFEDFF22153DE2D9.txt" />
     <Content Include="public\4a.gif" />
     <Content Include="public\california-clipart-3-transparent %282%29.png" />
     <Content Include="public\clipart1838501 %281%29.png" />
