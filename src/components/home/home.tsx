@@ -6,8 +6,8 @@ export const Home: React.StatelessComponent<{}> = () => {
         <div className="fahome">
             <header className="masthead">
                 <div className="container">
-                    <div className="masthead-subheading">Limited Liability Company</div>
                     <div className="masthead-heading text-uppercase">Foray Inspection</div>
+                    <div className="masthead-subheading">Limited Liability Company</div>
                     <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Contact</a>
                 </div>
             </header>
